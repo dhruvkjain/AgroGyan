@@ -1,0 +1,210 @@
+& Different Susceptibility in the Two Sympatric Sweet Potato Weevils, Cylas formicarius and Euscepes postfasciatus, to the Entomopathogenic Fungus Metarhizium anisopliae &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127671 %
+
+Title: "Using Fungus to Protect Sweet Potatoes from Hungry Bugs"
+
+In this essay, we're going to talk about how scientists are using a special type of fungus called "M. anisopliae" to help protect sweet potatoes from two different types of bugs that like to eat them.
+
+First, they tried using this fungus in two different forms: as a liquid and as tiny grains. They put these forms on the bugs to see if it could kill them. When they used the liquid form, it worked really well, killing more than 70% of the bugs in just a week, but they had to use a lot of it. However, when they used the grain form, it took longer, about 15 to 16 days, to kill the bugs even if they used a lot of it. If they used less of the grain form, it didn't work very well on one type of bug and didn't work at all on the other.
+
+To understand how much of the fungus is needed to kill half of the bugs, they did some math. For one type of bug, they found that you need about 104.78 tiny fungus things in a milliliter of liquid, and for the other bug, it was about 103.58 tiny fungus things in a milliliter of liquid.
+
+Next, they took this fungus and tested it in a real sweet potato field for two years. They wanted to see if it could protect the sweet potatoes from the bugs. They tried different ways of putting the fungus near the sweet potato plants. They also compared it to using a chemical called chlorpyriphos, which farmers often use to kill bugs.
+
+What they found was that the chemical and one way of using the fungus worked really well. They helped reduce the number of one type of bug and the damage they caused to sweet potatoes. However, they didn't test the fungus enough on the other type of bug, so they're not sure if it works for them.
+
+In conclusion, this study suggests that the fungus "M. anisopliae" can be a helpful tool for farmers to protect their sweet potatoes from certain bugs, but more research is needed to be sure if it can also work for the other bug. It's exciting to see scientists finding new ways to keep our crops safe from pests.
+
+@@@@@
+
+& Determining the Effects of Selected Organic Fertilizer on Growth and Yields of Tomato (Lycopersicon esculentum: Var. Rio Grande Tomatoes) in Mundri West County, Western Equatoria State, South Sudan &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127863 %
+
+
+This research looked at how different types of animal manure—specifically chicken, goat, and cow manure—affect the growth and yield of tomato plants. The study found that the type of manure used had a significant impact on various aspects of tomato plant performance, including how tall the plants grew, how long and wide their leaves were, the extent of damage caused by pests, and the amount of fruit they produced.
+
+When it comes to helping tomato plants grow better, chicken manure was the winner. It had the most positive influence on plant height, leaf length, and leaf width compared to goat and cow manure. This means that using chicken manure led to taller tomato plants with longer and wider leaves. These improvements happened because chicken manure is rich in nutrients that are good for plants.
+
+Additionally, when the study looked at pest damage, tomato plants treated with chicken manure suffered less from pests like aphids and whiteflies. So, chicken manure not only helped the plants grow better, but it also protected them from these harmful insects.
+
+Most importantly, when it came to the amount of tomatoes produced, chicken manure was the clear winner. Tomato yields were significantly higher when chicken manure was used compared to goat and cow manure. This is because chicken manure is a highly soluble fertilizer, meaning it dissolves easily in the soil, making nutrients available to the plants quickly. This helps the plants grow more leaves, which in turn leads to more tomatoes.
+
+In conclusion, if the goal is to promote the growth of tomato plants and get the most tomatoes, chicken manure is the best choice among these three types of manure. This is because it provides important nutrients like nitrogen, phosphorus, and potassium, which are essential for plant growth. These nutrients are easily absorbed by the tomato plants when they are mixed with chicken manure in the soil.
+
+Based on the findings of this study, several recommendations are made:
+
+Farmers are encouraged to use at least 10 tons of chicken manure per hectare of land. This amount is suggested because chicken manure is environmentally friendly and promotes good plant growth.
+
+Farmers should consider using chicken manure during tomato plant production to achieve the highest tomato yields. Its nutrient-rich composition supports better plant growth and higher yields.
+
+The government and other organizations involved in horticulture should provide support to farmers, including improved seeds and training, to help them increase their farming capabilities.
+
+To boost tomato production as a vegetable, the government should create agricultural policies that favor small-scale farmers' participation in tomato cultivation.
+
+Future tomato growers should explore mixing different types of animal manures in different proportions to see how they affect tomato growth and yields.
+
+Lastly, it's important to note that this study was conducted in one location in South Sudan. To confirm these findings, it's recommended that similar experiments be carried out in different areas with varying conditions to see if the results hold true in other regions.
+
+@@@@@
+
+& Can Natural Farming Help to Combat Climate Variability? A Comparison of Natural and Chemical Farming in Andhra Pradesh, India &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127859 %
+
+This study focuses on how natural farming methods can help reduce the harmful effects of climate variability compared to traditional chemical farming. It examined data from two cyclonic events in 2018 and heavy rainfall in 2021 in Andhra Pradesh, India, comparing the outcomes of natural farming and chemical farming.
+
+The study found that natural farming shows promise in coping with climatic variations better than chemical farming. While previous research has suggested that organic farming might help mitigate climate variability, there has been limited investigation into the potential of natural farming in this regard. This study aimed to fill that gap by exploring the capacity of natural farming to withstand climate change effects, including cyclones and heavy rainfall.
+
+The results of the study, based on events like cyclone Pethai, cyclone Titli, and heavy rains, clearly demonstrated that natural farming outperformed chemical farming. In all these cases, the key factor studied was the type of farming system used, and the results consistently supported the hypothesis that natural farming could reduce the negative impacts of climate variability. Natural farming showed resilience against issues like wind damage, submergence, crop lodging, and yield loss.
+
+The study primarily focused on paddy cultivation because it's a major crop in coastal districts prone to cyclones and excessive rainfall. Natural farming was found to benefit soil health by reducing compaction, increasing porosity, and enhancing water penetration. These soil improvements likely contributed to natural farming's ability to withstand climate variability, as increased infiltration rates helped drain excess water from cyclones and floods.
+
+These findings align with previous research on natural farming, which indicated that it can increase earthworm populations, improve water-holding capacity, porosity, infiltration, and resilience against floods and cyclones. Key natural farming practices like using bio-stimulants, applying mulch, and promoting biodiversity in cropping systems were identified as reasons for this resilience.
+
+The study also highlighted the positive impact of natural farming on root morphology and root-shoot ratio, which are crucial for withstanding adverse climatic conditions. It noted a significant increase in root length in natural farming systems, which helps maintain the structural integrity of the land during cyclonic events.
+
+Principles such as "365 Days Green Cover" and increased crop diversity in natural farming were identified as essential for combating climate change impacts. Cover crops, in particular, were found to have positive effects on various soil parameters, including bulk density, porosity, water infiltration, water-holding capacity, and hydraulic conductivity.
+
+In conclusion, this study provides preliminary evidence that natural farming can be more resilient in mitigating the negative effects of climate change compared to chemical farming. However, it acknowledges the need for further long-term experiments to fully understand the cause-and-effect relationships between different natural farming principles and their effectiveness in adverse climatic conditions.
+
+@@@@@
+
+& Performance of Maize (Zea mays L.) and Land Equivalent Ratio under Maize-Groundnut (Arachis hypogea L.) Intercropping System &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127759 %
+
+Title: Enhancing Crop Growth: A Closer Look at Mixing Maize and Groundnut for Better Farming
+
+Introduction:
+Intercropping is a smart farming technique where different crops grow together in the same field. It's like teamwork for plants, helping them use the land effectively, share nutrients, and reduce the chances of crop problems. In this essay, we'll explore the findings and recommendations from a study about intercropping maize and groundnut. We'll dig deeper into how to plant them together and where they grow best.
+
+Conclusions:
+
+This study dug into different ways of growing maize and groundnut side by side and when to plant groundnut. Here's what we discovered:
+
+Helping Maize Thrive: When we planted one row of maize next to one row of groundnut (imagine them as friends standing together), or one row of maize followed by two rows of groundnut, or two rows of maize followed by one row of groundnut, the maize plants grew better. It's like they were giving each other a boost.
+
+More Maize Seeds: Planting groundnut within the first week of planting maize (within seven days) was a game-changer. It led to more maize seeds, especially when we planted two rows of maize and two rows of groundnut together.
+
+Strong Teamwork: We used a special number called the Land Equivalent Ratio (LER) to see if intercropping is better than growing crops separately. The results were clear:
+
+When we planted groundnut within two weeks of planting maize, it worked better for the major season.
+When we planted groundnut within one week of planting maize, it was better for the minor season. No matter when we paired groundnut with maize, it was always better than growing them alone.
+
+Recommendations:
+
+Here are some suggestions for farmers and researchers based on what we learned:
+
+Plant Groundnut Early: Farmers should plant groundnut within one week of planting maize, especially when they're putting two rows of maize and two rows of groundnut together. This will not only give more maize seeds but also improve farming overall.
+
+Keep Exploring: We need to keep studying this in different places to make sure it works everywhere. We should also try different ways to arrange maize and groundnut, like one row of maize and two rows of groundnut, two rows of maize and one row of groundnut, or one row of maize and one row of groundnut. This will help us gather more knowledge about smart farming.
+
+Conclusion:
+This study shines a light on how mixing maize and groundnut together and planting groundnut early can make farming better. Farmers can use these ideas to grow more crops and improve their farms. By exploring this further in various locations and trying out different arrangements, we can help even more farmers and make farming smarter all around the world.
+
+@@@@@
+
+& Characterization of Seed Storage Proteins in Eight Bambara Groundnut Landraces in Burkina Faso &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127520 %
+
+Title: Exploring the Protein Treasure in Bambara Groundnut Landraces of Burkina Faso
+
+Introduction:
+This study delves into the protein composition of Bambara groundnut landraces, specifically those grown in the dry savannahs of Burkina Faso. The goal is to understand how much protein these seeds contain and to identify any variations among different types of Bambara groundnut landraces.
+
+Key Findings:
+
+Protein-Rich Seeds: The research revealed that the protein content in Bambara groundnut seeds falls within a range of 17.69% to 19.17%. While this might not sound like a big difference, it's still noteworthy because it tells us that Bambara groundnuts are a good source of protein.
+
+Albumins Take the Lead: When we looked at the types of proteins present in Bambara groundnuts, we found that albumins were the most common in the total soluble protein fraction. These albumins are a type of protein that can be easily dissolved in water. This is exciting because it means Bambara groundnut has great potential as a protein-rich crop.
+
+Promise for Nutrition Security: The high protein content in Bambara groundnuts makes them quite promising for improving nutrition, especially in places where climate change and food shortages are a big concern. They could be a key to helping people get the nutrition they need, even when times are tough.
+
+More to Discover: While this study looked at a specific set of Bambara groundnut landraces in Burkina Faso, there's still more to learn. Future studies could explore a wider variety of landraces from different regions. This might show us even more diversity in the protein content of these seeds.
+
+Conclusion:
+In a world where good nutrition is crucial, this study shines a light on the potential of Bambara groundnut as a rich source of protein. The slight variations in protein content among different landraces remind us that there's still much to discover about this amazing crop. This research not only adds to our knowledge of Bambara groundnut but also emphasizes the need for further exploration of this often-underestimated crop. It has the power to help us tackle food and nutrition challenges, particularly in areas where they hit the hardest.
+
+@@@@@
+
+& Determinants of Smallholder Farmers Adoption of Acacia decurrens in Northwest Ethiopia &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127519 %
+
+Title: Growing Climate-Smart Trees for a Sustainable Future: The Adoption of Acacia decurrens (AD) in Awi Zone, Ethiopia
+
+Introduction:
+In Ethiopia, a remarkable agricultural practice known as Acacia decurrens (AD) tree cultivation has gained attention as a climate-smart solution. This practice involves planting fast-growing AD trees, which serve multiple purposes and have the potential to enhance livelihoods. While AD adoption is widespread in Awi Zone, its extent varies among households. This study aims to uncover the factors influencing the degree of AD adoption among 385 randomly selected rural households in Awi Zone. We collected data through a household survey, and our analysis employed descriptive statistics and the Two-limit Tobit model.
+
+Key Findings:
+
+Extent of AD Adoption: On average, farmers in the study area allocated about 43% of their land for AD cultivation. This means that nearly half of their agricultural land was dedicated to these special trees. However, it's important to note that the majority of farmers (almost 49%) practiced AD adoption at a relatively low level.
+
+Determinants of Adoption: Our analysis revealed several factors that influence the intensity of AD adoption:
+
+Positive Influencers:
+
+Male-headed households.
+Higher levels of education.
+Easy access to AD tree seeds.
+Experience in successful AD tree cultivation.
+Regular interactions with agricultural experts (extension services).
+
+Negative Influencers:
+
+Older heads of households.
+Smaller land and livestock holdings.
+Poor soil fertility.
+Occurrence of diseases affecting AD trees.
+Greater distance from the main road.
+
+Recommendations:
+
+Drawing from our findings, we propose the following recommendations to enhance AD adoption and its benefits for farmers:
+
+Access to Resources: Farmers should be provided with resources such as easy access to AD tree seeds and extension services for guidance. Additionally, capacity-building initiatives through education can empower farmers to make the most of AD cultivation.
+
+Improved Infrastructure: Investing in road infrastructure, particularly in areas distant from the main road, can reduce transportation costs for farmers and facilitate better access to markets for their AD tree products.
+
+Land Tenure Security: Ensuring secure land ownership, especially for marginal and underutilized land, can encourage landless and economically disadvantaged youth farmers to adopt AD cultivation more enthusiastically.
+
+Disease Management: Government and relevant stakeholders should actively engage in identifying, assessing, and managing diseases affecting AD plots. Timely intervention can prevent discouragement among farmers.
+
+Climate-Smart Farming: AD tree cultivation is an excellent climate-smart practice. Policymakers should consider formulating policies and providing support to enable more farmers in Awi Zone to embrace this approach, aligning it with their socio-economic and ecological conditions.
+
+Conclusion:
+The study underscores the significance of AD tree cultivation in Awi Zone, Ethiopia, as a climate-smart agricultural practice with the potential to transform livelihoods. However, to unlock its full potential, farmers need support in terms of knowledge, resources, and infrastructure. By implementing the proposed recommendations and focusing on policy interventions, stakeholders can ensure the sustainable adoption of AD tree cultivation, benefitting both smallholder farmers and the environment. This study's findings serve as a valuable resource for policymakers, development practitioners, and service providers working towards a more resilient and prosperous agricultural sector in Awi Zone.
+
+@@@@@
+
+& Meta-Analysis Study of the Effects of Yeast Probiotic Supplementation on Milk Production and Energy Corrected Milk of Lactating Dairy Cows &
+
+% https://www.scirp.org/journal/paperinformation.aspx?paperid=127456 %
+
+Title: How Special Yeast Helps Cows Make More and Better Milk
+
+Introduction:
+Dairy farming is a crucial part of agriculture, and farmers always want to find ways to get more milk and better-quality milk from their cows. Recently, people have been looking at using something called "yeast probiotics" to help with this. This essay explains a study that looked at how one specific yeast probiotic, Actisaf® Sc 47, affects how much milk cows make and how good that milk is. The study also checked how things like the cow's environment and food can change the yeast's effects.
+
+Different Studies, Similar Goals:
+Sometimes, scientists combine information from many studies to get a bigger picture. In this case, they wanted to see if all the studies agreed about how yeast probiotics affect cows. They found that the results were a bit different from study to study, but not too much. This means that using yeast probiotics can help cows make more and better milk, but there are some differences depending on the situation.
+
+Checking for Bias:
+Sometimes, people only publish studies that show good results and hide the ones that don't. This can make things look better than they really are. To make sure this didn't happen in their study, the scientists looked at both published research and industry reports, whether they were positive or not. This way, they got a more honest view of what the yeast probiotic can really do.
+
+Effect on Milk Production (MY):
+The study found that when they gave cows Actisaf® Sc 47, the cows made about 1.72 kilograms more milk every day. This matches what other studies have seen – yeast probiotics can help cows make more milk. It seems that yeast probiotics make the cow's stomach work better, helping them digest their food and use it to make milk.
+
+Effect on Better Milk (ECM):
+Not only did the cows make more milk, but it was also better milk. The special milk, called ECM, had more energy in it. This kind of milk is great for making products like cheese. The yeast probiotic seems to make the milk have more fat and protein, which is what you need for cheese. This is a big deal for farmers who want to make cheese or other dairy products.
+
+How It Works:
+The yeast probiotic makes the cow's stomach work better, and this helps the cow's body use its food more efficiently. It's like a boost for the cow's digestion system, making sure more of the food gets turned into milk. The yeast also seems to help with the milk's fat and protein, which is great for making high-quality dairy products.
+
+Conclusion:
+In short, the study showed that giving cows Actisaf® Sc 47, a special yeast probiotic, can help them make more milk and better-quality milk. It seems to work by improving the cow's digestion and how they use their food. While there's still more to learn, this research can be a helpful tool for farmers looking to get the most out of their dairy cows and improve their milk production and quality.
+
+@@@@@
