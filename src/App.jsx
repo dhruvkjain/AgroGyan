@@ -4,18 +4,13 @@ import Blog from "./components/Blog";
 import Form from "./components/Form";
 import Data from "./components/User";
 import v1 from "./assets/v1.mp4";
-// import DyteProvider from "dytesdk/react-web-core";
-import { useEffect } from 'react';
-import { useDyteClient } from '@dytesdk/react-web-core';
-import { DyteMeeting } from '@dytesdk/react-ui-kit';
-
-
-
-
+// import DyteProvider from "@dytesdk/react-web-core";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Videochat from "./components/Videochat";
 
 
 var i=10;
-var name="" , email="" , phoneno="";
+var name="" , email="" , phoneno="" , auth_token="";
 
 class App extends Component{
   constructor(){
@@ -23,17 +18,7 @@ class App extends Component{
     this.state={Data};
   }
 
-  componentDidUpdate(){
-    const options = {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json', Authorization: 'Basic NWE5ZTdhNTEtNjEwNS00NGRjLThlZGEtN2U1OGFlOTA0OGUzOjdiOTc2ZGM2YTY2ZjY5ZWI1NWZi'},
-      body: '{"title":"string","preferred_region":"ap-south-1","record_on_start":false,"live_stream_on_start":false,"recording_config":{"max_seconds":60,"file_name_prefix":"string","video_config":{"codec":"H264","width":1280,"height":720,"watermark":{"url":"http://example.com","size":{"width":1,"height":1},"position":"left top"}},"audio_config":{"codec":"AAC","channel":"stereo"},"storage_config":{"type":"aws","access_key":"string","secret":"string","bucket":"string","region":"us-east-1","path":"string","auth_method":"KEY","username":"string","password":"string","host":"string","port":0,"private_key":"string"},"dyte_bucket_config":{"enabled":true},"live_streaming_config":{"rtmp_url":"rtmp://a.rtmp.youtube.com/live2"}}}'
-    };
-    
-    fetch('https://api.dyte.io/v2/meetings', options)
-      .then(response => response.json())
-      .then(response => console.log(response))
-      .catch(err => console.error(err));
+  componentDidMount(){
     
   }
 
@@ -66,11 +51,38 @@ class App extends Component{
       email="";
       phoneno="";
       console.log(Data);
+      const options = {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: 'Basic NWE5ZTdhNTEtNjEwNS00NGRjLThlZGEtN2U1OGFlOTA0OGUzOjdiOTc2ZGM2YTY2ZjY5ZWI1NWZi'
+        },
+        body: '{"name":"Mary Sue","picture":"https://i.imgur.com/test.jpg","preset_name":"group_call_host","custom_participant_id":"host"}'
+      };
+      
+      fetch('https://api.dyte.io/v2/meetings/bbb88f5f-7300-4284-9ca9-4ba8f22ccdf8/participants', options)
+        .then(response => response.json())
+        .then(response => {
+          console.log(response);
+          auth_token = response.data.token;
+          console.log(auth_token);
+        })
+        .catch(err => console.error(err));
   }
 
   render(){
     return(
       <div className="main">
+        {/* <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Layout />}>
+              <Route index element={<Home />} />
+              <Route path="blogs" element={<Blogs />} />
+              <Route path="contact" element={<Contact />} />
+              <Route path="*" element={<NoPage />} />
+            </Route>
+          </Routes>
+        </BrowserRouter> */}
         <style>
           @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Mooli&family=Orbitron&family=Poppins:wght@300&family=Rubik+Iso&family=Space+Grotesk:wght@300&display=swap');
         </style>
@@ -111,6 +123,9 @@ class App extends Component{
           <section className='flex justify-center items-center bg-[#fe7f2d]'>
           <Blog name={"NAME"}/>
           </section>
+        </div>
+        <div id="videochat" className='flex justify-center items-center w-screen h-screen'>
+          <Videochat />
         </div>
         <div id="contacts" className="h-screen w-screen third bg-white">
           <Form name={this.saveName} email={this.saveEmail} phoneno={this.savePhoneno} submit={this.submitClick}/>
