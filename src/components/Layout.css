@@ -1,0 +1,36 @@
+.read , .connect{
+    font-size: 24px;
+}
+
+@media only screen and (max-width:500px) 
+{
+  .read , .connect{
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width:430px) 
+{
+  .read , .connect{
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width:360px) 
+{
+  .read , .connect{
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width:322px) 
+{
+  .read , .connect{
+    margin-right:0px;
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width:290px) 
+{
+  .read , .connect{
+    margin:1px ;
+    padding: 1px;
+  }
+}
