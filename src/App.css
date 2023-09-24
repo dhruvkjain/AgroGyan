@@ -4,37 +4,3 @@
   /* padding: 2rem; */
   text-align: center;
 }
-
-/* html{
-  scroll-snap-type: y mandatory;
-  overflow-x: hidden;
-}
-.first , .second , .third{
-  scroll-snap-align: start;
-}
-.first{
-  background-image: url("https://fffuel.co/images/ffflux/ffflux-9.svg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-.slider {
-  font-family: sans-serif;
-  scroll-snap-type: x mandatory;  
-  -webkit-overflow-scrolling: touch;
-  display: flex;
-  overflow-x: scroll;
-}
-.buttons{
-  justify-content: space-between;
-}
-section {
-  border-right: 1px solid white;
-  padding: 1rem;
-  min-width: 100vw;
-  height: 100vh;
-  scroll-snap-align: start;
-  text-align: center;
-  position: relative;
-} */
-
