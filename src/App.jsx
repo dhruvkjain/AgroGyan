@@ -29,7 +29,7 @@ class App extends Component {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Basic NWE5ZTdhNTEtNjEwNS00NGRjLThlZGEtN2U1OGFlOTA0OGUzOjdiOTc2ZGM2YTY2ZjY5ZWI1NWZi'
+        Authorization: PROCESS.env.key;
       },
       body:JSON.stringify(body)
     };
@@ -49,7 +49,7 @@ class App extends Component {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Basic NWE5ZTdhNTEtNjEwNS00NGRjLThlZGEtN2U1OGFlOTA0OGUzOjdiOTc2ZGM2YTY2ZjY5ZWI1NWZi'
+        Authorization: PROCESS.env.key;
       },
       body: '{"name":"Your Name","picture":"https://th.bing.com/th?id=OIP.OesLvyzDO6AvU_hYUAT4IAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2","preset_name":"group_call_participant","custom_participant_id":"1"}'
     };
